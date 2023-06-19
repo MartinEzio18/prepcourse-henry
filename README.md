@@ -1,2 +1,2 @@
-# prepcourse-henry
-este es un repositorio de prueba para el modulo 2 del prepcourse de henry
+esta es una prueba de como pasar un repositorio de github a mi escritorio.
+
